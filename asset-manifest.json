@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monster-vojsig/static/css/main.0e58b613.chunk.css",
+    "main.js": "/monster-vojsig/static/js/main.812045fd.chunk.js",
+    "main.js.map": "/monster-vojsig/static/js/main.812045fd.chunk.js.map",
+    "runtime-main.js": "/monster-vojsig/static/js/runtime-main.cdbaa4a5.js",
+    "runtime-main.js.map": "/monster-vojsig/static/js/runtime-main.cdbaa4a5.js.map",
+    "static/js/2.2f5946ea.chunk.js": "/monster-vojsig/static/js/2.2f5946ea.chunk.js",
+    "static/js/2.2f5946ea.chunk.js.map": "/monster-vojsig/static/js/2.2f5946ea.chunk.js.map",
+    "static/js/3.3b3ad5d8.chunk.js": "/monster-vojsig/static/js/3.3b3ad5d8.chunk.js",
+    "static/js/3.3b3ad5d8.chunk.js.map": "/monster-vojsig/static/js/3.3b3ad5d8.chunk.js.map",
+    "index.html": "/monster-vojsig/index.html",
+    "static/css/main.0e58b613.chunk.css.map": "/monster-vojsig/static/css/main.0e58b613.chunk.css.map",
+    "static/js/2.2f5946ea.chunk.js.LICENSE.txt": "/monster-vojsig/static/js/2.2f5946ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdbaa4a5.js",
+    "static/js/2.2f5946ea.chunk.js",
+    "static/css/main.0e58b613.chunk.css",
+    "static/js/main.812045fd.chunk.js"
+  ]
+}
